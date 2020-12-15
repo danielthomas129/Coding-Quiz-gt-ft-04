@@ -11,32 +11,32 @@ let questions = [
         correct: "alerts"
     }, {
       question: "Arrays in JavaScript can be used to store/?",
-        choiceA: "Random Access Memory",
-        choiceB: "Randomely Access Memory",
-        choiceC: "Run Aceapt Memory",
-        choiceD: "None of these",
-        correct: "None of these"
+        choiceA: "Numbers & strings",
+        choiceB: "Other Arrays",
+        choiceC: "Booleans",
+        choiceD: "All of these",
+        correct: "All of these"
     }, {
       question: "String values must be enclosed within ______ when being assigned to variables",
-        choiceA: "Random Access Memory",
-        choiceB: "Randomely Access Memory",
-        choiceC: "Run Aceapt Memory",
-        choiceD: "None of these",
-        correct: "None of these"
+        choiceA: "commas",
+        choiceB: "curly brackets",
+        choiceC: "quotes",
+        choiceD: "parenthesis",
+        correct: "quotes"
     }, {
-      question: "The condition in an if/else statement is enlosed with _____.",
-        choiceA: "Random Access Memory",
-        choiceB: "Randomely Access Memory",
-        choiceC: "Run Aceapt Memory",
+      question: "Which of the following type of variable takes precedence over other if names are same?",
+        choiceA: "global variable",
+        choiceB: "local variable",
+        choiceC: "both of the above",
         choiceD: "None of these",
-        correct: "None of these"
+        correct: "local variable"
     }, {
       question: "A very useful tool used during development & debugging for printing content to the debugger is?",
         choiceA: "JavaScript",
-        choiceB: "Randomely Access Memory",
-        choiceC: "Run Aceapt Memory",
-        choiceD: "None of these",
-        correct: "None of these" 
+        choiceB: "terminal / bash",
+        choiceC: "console.log",
+        choiceD: "for loop",
+        correct: "console.log" 
     }
 ];
   
