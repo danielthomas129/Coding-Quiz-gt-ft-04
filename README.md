@@ -22,8 +22,8 @@ THEN I can save my initials and score
 
 
 ### **Code Samples** ###
-![alternativetext](Assets/F1.png)
-![alternativetext](Assets/F2.png)
+![alternativetext](assets/F1.png)
+![alternativetext](assets/F2.png)
 
 
 ### **The application consist of:** ### 
@@ -33,15 +33,15 @@ THEN I can save my initials and score
 
 **START.HTML**
 
-![alternativetext](Assets/CD1.png)
+![alternativetext](assets/CD1.png)
 
 **INDEX.HTML**
 
-![alternativetext](Assets/CD2.png)
+![alternativetext](assets/CD2.png)
 
 **END.HTML**
 
-![alternativetext](Assets/CD3.png)
+![alternativetext](assets/CD3.png)
 
 
 [Click here to view published site] or (https://danielthomas129.github.io/Coding-Quiz-gt-ft-04/)
