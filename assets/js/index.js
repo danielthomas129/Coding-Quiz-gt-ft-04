@@ -4,5 +4,5 @@ function submitForm(e) {
   
     sessionStorage.setItem("name", name);
   
-    location.href = "index.html";
+    location.href = "question.html";
   }
